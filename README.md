@@ -4,5 +4,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo
 
-The app is ready to use and has been deployed onto this [GitHub Page](https://kan-liu.github.io/sym-crypt/).
+The app is ready to use and has been deployed onto this [GitHub Page](https://kan-liu.github.io/Sym-Crypt/).
 The main encryption/decryption [script](https://github.com/Kan-Liu/sym-crypt/blob/master/src/symCrypt.js) can also be used individually for your own project.
