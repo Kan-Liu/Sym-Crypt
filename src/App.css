@@ -46,3 +46,12 @@
   font-size: 15px;
   color: rgb(161, 158, 158);
 }
+
+.Main-Alert {
+  font-size: 20px;
+  width: 700px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
