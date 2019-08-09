@@ -100,7 +100,7 @@ class App extends Component<{}, State> {
       this.setState({
         showAlert: true,
         strHeading: "Error",
-        strToShow: "Please eneter a valid encrypted string to decrypt!",
+        strToShow: "Please enter a valid Sym-Encrypted string to decrypt!",
         alertType: "danger"
       });
     }
