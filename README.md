@@ -1,4 +1,4 @@
-# Sym-Crypt (Use it [here](https://kan-liu.github.io/Sym-Crypt/)
+# Sym-Crypt (Use it [here](https://kan-liu.github.io/Sym-Crypt/))
 
 Sym-Crypt is a React CRA Web App to encrypt/decrypt strings symmetrically if given the same key string.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
